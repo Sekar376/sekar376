@@ -7,9 +7,6 @@ coding and crafting innovative sloutions . This README is my playground to showc
 ## Skills & interests:
 • Programming Languages  : Python Programming,SQL.      
 • Framworks/Libraries    : Pandas,Numby,seaborn.
-• Databases              : Mysql,postgreSQL,SQL server.
-• Cloud                  : AWS.
-• Tools and Applications :Tableau| Microsoft Power BI | Microsoft Excel 
 • version  control       : Git/Github,google colab,VS Code, Anacoda.  
 • Interests              : Problem sloving Comppetive Programing open-source Contributions   
 
