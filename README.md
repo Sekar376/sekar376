@@ -13,7 +13,7 @@ coding and crafting innovative sloutions . This README is my playground to showc
 * version  control                 : Git/Github,google colab,VS Code, Anacoda.  
 * Interests                            :  Problem sloving Comppetive Programing open-source Contribution   
   
-## Projects:
+## Projects, 
 ## Revenue Insights in Hospitality Domain:     
    • AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality
      industry for the past 20 years. Due to strategic moves from other competitors and
@@ -31,3 +31,6 @@ coding and crafting innovative sloutions . This README is my playground to showc
 * Email      : sekarbabu376@gmail.com
 * Linkedin : www.linkedin.com/in/sekargd
 * Github    : https://github.com/Sekar376
+
+## Feedback Welcome:
+* I'am still learning and growing as a data analytics ,so I always welcome constructive feedback and suggestion .feel free to reach out to me on any platform above,and lett's connect!
