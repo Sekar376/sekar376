@@ -26,3 +26,8 @@ coding and crafting innovative sloutions . This README is my playground to showc
   • Healthcare Dashboard Project using Power BI, revolutionizes data-driven decisionmaking in the healthcare sector. The interactive dashboard includes features such as patient
     demographics, medical staff performance, and real-time analytics, offering stakeholders
     actionable insights for strategic planning
+
+## connect with me:
+* Email      : sekarbabu376@gmail.com
+* Linkedin : www.linkedin.com/in/sekargd
+* Github    : https://github.com/Sekar376
