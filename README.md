@@ -12,14 +12,7 @@ coding and crafting innovative sloutions . This README is my playground to showc
 * Tools and Applications      : Tableau| Microsoft Power BI | Microsoft Excel.
 * version  control                 : Git/Github,google colab,VS Code, Anacoda.  
 * Interests                            :  Problem sloving Comppetive Programing open-source Contribution   
-• 
-• 
-• 
-• 
-• 
-• 
-
-
+  
 ## Projects:
 ## Revenue Insights in Hospitality Domain:     
    • AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality
