@@ -6,12 +6,12 @@ coding and crafting innovative sloutions . This README is my playground to showc
 
 ## Skills & interests:
 • P    
-• 
-• 
-• 
-• 
-• 
-•  
+• l
+• m
+• s
+• d
+• r
+• v
 
 
 ## Projects:
